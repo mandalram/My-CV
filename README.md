@@ -1,2 +1,2 @@
-# My-CV
-My Resume from Frontend Development
+# Resume
+My Resume from Complete Web Development Course
